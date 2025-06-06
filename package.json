@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "talk-desktop",
-  "productName": "Nextcloud Talk",
+  "productName": "MacroGroup Talk",
   "desktopName": "com.nextcloud.talk.desktop",
   "version": "1.2.3",
   "bugs": {
